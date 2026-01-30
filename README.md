@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZN92
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Prompt engineering
 
 <!---
 ZN92/ZN92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
