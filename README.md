@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZN92
-- 👀 I’m interested in NO Coing SaaS
+- 👀 I’m interested in No-Coding SaaS
 - 🌱 I’m currently learning Prompt engineering
 
 <!---
